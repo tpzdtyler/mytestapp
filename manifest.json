@@ -1,0 +1,9 @@
+{
+"name":"test",
+"description":"test lol",
+"version":"1.12.1",
+"manifest_version":2,
+"app":{
+"background":{
+"scripts":["background.js"]
+}}}
