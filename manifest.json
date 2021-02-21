@@ -1,7 +1,7 @@
 {
-"name":"test",
+"name":"MyTestApp (Idevelopment) 1.1.0",
 "description":"test lol",
-"version":"1.12.1",
+"version":"1.1",
 "manifest_version":2,
 "app":{
 "background":{
